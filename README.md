@@ -1,4 +1,4 @@
-Practice of LeetCode Questions: (Starting with)
+Practice of LeetCode Questions:
 Daily Quest
 1. Array
 2. Two Pointers
